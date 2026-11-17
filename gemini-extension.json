@@ -1,0 +1,11 @@
+{
+  "name": "plansend",
+  "version": "1.0.0",
+  "description": "Draft social media posts, send them for client approval and schedule them to your connected channels.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "plansend": {
+      "httpUrl": "https://plansend.io/mcp"
+    }
+  }
+}
